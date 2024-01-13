@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics Portfolio: Excel
 
 Welcome to my Data Analytics Portfolio! This repository showcases a collection of Excel projects that demonstrate my skills in data analysis and visualization. Each project is designed to highlight different aspects of my expertise in handling and interpreting data.
 
