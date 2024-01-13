@@ -32,15 +32,15 @@ To explore each project, simply navigate to the corresponding folder. Each proje
 
 ## Requirements
 
-- Microsoft Excel (Version X.X.X or higher)
-- Basic understanding of data analysis concepts
+- Microsoft Excel
+- Basic understanding of data analysis concepts in Excel
 
 ## Contributions
 
-Feel free to fork this repository, explore the projects, and adapt them to your needs. If you find any issues or have suggestions for improvement, please create a new issue or submit a pull request.
+Feel free to fork this repository, explore the projects, and adapt review them as you see fit. If you find any issues or have suggestions for improvement, please email me at partharora0055@gmail.com
 
 ## Contact
 
-If you have any questions or want to connect, you can reach me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or want to connect, you can reach me at [partharora0055@gmail.com](mailto:partharora0055@gmail.com).
 
 Happy analyzing!
