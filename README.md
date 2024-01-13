@@ -20,17 +20,6 @@ To explore each project, simply navigate to the corresponding folder. Each proje
 - `Analysis`: Excel files showcasing the data analysis and visualization.
 - `Results`: Any additional documents or visuals generated as a result of the analysis.
 
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```
-   git clone https://github.com/partharora0055/data-analytics-portfolio.git
-   ```
-
-2. Open the desired project folder and explore the files.
-
-3. Refer to the `README.md` file within each project folder for specific details about the project.
-
 ## Requirements
 
 - Microsoft Excel
