@@ -10,6 +10,7 @@ Welcome to my Data Analytics Portfolio! This repository showcases a collection o
   - Data cleaning and preprocessing
   - Pivot tables and charts
   - Trend analysis
+  - Data source: https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
 
 ## Getting Started
 
